@@ -1,4 +1,4 @@
-# samiha
+# diagnoskin
 
 A new Flutter project.
 
